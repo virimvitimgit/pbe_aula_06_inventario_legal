@@ -1,0 +1,17 @@
+{
+  "name": "InventárioMVC",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "virimvitimgit",
+  "license": "ISC",
+  "description": "projeto de back-end SENAI 2026, 2º",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}

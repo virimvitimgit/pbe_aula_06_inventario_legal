@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "item": "Cenoura",
+        "data": "2024-06-10",
+        "local": "Vendinha de Bananas",
+        "valor": 70,
+        "patrimonio": "PRT123"
+    },
+    {
+        "id": 2,
+        "item": "Brócolis",
+        "data": "2026-02-20",
+        "local": "Mercado Municipal",
+        "valor": 20,
+        "patrimonio": "ASD123"
+    },
+    {
+        "id": 3,
+        "item": "Abóbora",
+        "data": "2025-03-30",
+        "local": "Feira do Bairro Pequeno",
+        "valor": 90,
+        "patrimonio": "VFR123"
+    }
+]
